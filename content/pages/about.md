@@ -31,11 +31,20 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Olá :smile:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Somos dois alunos :man_student: , João Belém e :woman_student: Leonor Lopes, do 5º ano, do Externato Liceal das Casas de São Vicente de Paulo.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Aceitámos um desafio, proposto pela escola, e estamos a construir um projeto de Mérito.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+O nosso projeto, é um diretório, que se chama “**Como podemos ajudar**“.
 
-*Thank You for reading!*
+## A nossa missão:
+
+A nossa missão é ajudar os outros através da recolha de materiais simples, tais como tampas, ou rolhas.
+
+Imaginem que, tem imensas tampas em casa e não sabe o que fazer? Basta visitar o nosso site, terá orientações sobre como podemos ajudar.
+
+Com a reciclagem, podemos apoiar pessoas que precisam de ajuda.
+
+### Colabore connosco! :briefcase:
